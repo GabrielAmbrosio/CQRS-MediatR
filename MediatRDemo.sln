@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorUI", "BlazorUI\BlazorUI.csproj", "{C967AB08-CB5E-459D-9317-3126DCF063BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoLibrary", "DemoLibrary\DemoLibrary.csproj", "{11CDAC1E-F42B-4223-BE3D-5CED3FE04104}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoAPI", "DemoAPI\DemoAPI.csproj", "{9F69C172-5E09-4786-BD82-2D8724809051}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C967AB08-CB5E-459D-9317-3126DCF063BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C967AB08-CB5E-459D-9317-3126DCF063BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C967AB08-CB5E-459D-9317-3126DCF063BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C967AB08-CB5E-459D-9317-3126DCF063BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11CDAC1E-F42B-4223-BE3D-5CED3FE04104}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11CDAC1E-F42B-4223-BE3D-5CED3FE04104}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11CDAC1E-F42B-4223-BE3D-5CED3FE04104}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11CDAC1E-F42B-4223-BE3D-5CED3FE04104}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F69C172-5E09-4786-BD82-2D8724809051}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F69C172-5E09-4786-BD82-2D8724809051}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F69C172-5E09-4786-BD82-2D8724809051}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F69C172-5E09-4786-BD82-2D8724809051}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FDC97467-00C1-4B35-A5AA-279C1DCA4800}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ON4zy22wi6Yrx68ys3+ZlOeAMBKcCtky7oHJALhOYDI+9judHKA95f6dUQDYv5GKjq9wLyZNWiG5g+1VAg7BmQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Gabriel\\source\\repos\\MediatRDemo\\MediatRDemo\\BlazorUI\\BlazorUI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gabriel\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
+    "C:\\Users\\Gabriel\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
