@@ -79,6 +79,27 @@ using BlazorUI.Shared;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 11 "C:\Users\Gabriel\source\repos\MediatRDemo\MediatRDemo\BlazorUI\_Imports.razor"
+using DemoLibrary.Models;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 12 "C:\Users\Gabriel\source\repos\MediatRDemo\MediatRDemo\BlazorUI\_Imports.razor"
+using DemoLibrary.Queries;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 13 "C:\Users\Gabriel\source\repos\MediatRDemo\MediatRDemo\BlazorUI\_Imports.razor"
+using DemoLibrary.Handler;
+
+#line default
+#line hidden
+#nullable disable
     public partial class NavMenu : Microsoft.AspNetCore.Components.ComponentBase
     {
         #pragma warning disable 1998

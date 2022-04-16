@@ -14,12 +14,18 @@ namespace DemoLibrary.DataAccess
         public DemoDataAccess()
         {
             people.Add(new PersonModel { Id = 1, FirstName = "Gabriel", LastName = "Ambrosio" });
-            people.Add(new PersonModel { Id = 2, FirstName = "Marcelo", LastName = "Godoy" });
+            people.Add(new PersonModel { Id = 2, FirstName = "John", LastName = "Lennon" });
         }
 
         public List<PersonModel> GetPeople()
         {
             return people;
+        }
+
+        public PersonModel GetPersonById(int id)
+        {
+            return people.Find(p => p.Id == id);
+
         }
 
         public PersonModel InsertPerson(string firstName, string lastName)

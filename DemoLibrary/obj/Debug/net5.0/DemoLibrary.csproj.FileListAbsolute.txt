@@ -1,0 +1,12 @@
+C:\Users\Gabriel\source\repos\MediatRDemo\MediatRDemo\DemoLibrary\obj\Debug\net5.0\DemoLibrary.csproj.AssemblyReference.cache
+C:\Users\Gabriel\source\repos\MediatRDemo\MediatRDemo\DemoLibrary\obj\Debug\net5.0\DemoLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\source\repos\MediatRDemo\MediatRDemo\DemoLibrary\obj\Debug\net5.0\DemoLibrary.AssemblyInfoInputs.cache
+C:\Users\Gabriel\source\repos\MediatRDemo\MediatRDemo\DemoLibrary\obj\Debug\net5.0\DemoLibrary.AssemblyInfo.cs
+C:\Users\Gabriel\source\repos\MediatRDemo\MediatRDemo\DemoLibrary\obj\Debug\net5.0\DemoLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\MediatRDemo\MediatRDemo\DemoLibrary\bin\Debug\net5.0\DemoLibrary.deps.json
+C:\Users\Gabriel\source\repos\MediatRDemo\MediatRDemo\DemoLibrary\bin\Debug\net5.0\DemoLibrary.dll
+C:\Users\Gabriel\source\repos\MediatRDemo\MediatRDemo\DemoLibrary\bin\Debug\net5.0\ref\DemoLibrary.dll
+C:\Users\Gabriel\source\repos\MediatRDemo\MediatRDemo\DemoLibrary\bin\Debug\net5.0\DemoLibrary.pdb
+C:\Users\Gabriel\source\repos\MediatRDemo\MediatRDemo\DemoLibrary\obj\Debug\net5.0\DemoLibrary.dll
+C:\Users\Gabriel\source\repos\MediatRDemo\MediatRDemo\DemoLibrary\obj\Debug\net5.0\ref\DemoLibrary.dll
+C:\Users\Gabriel\source\repos\MediatRDemo\MediatRDemo\DemoLibrary\obj\Debug\net5.0\DemoLibrary.pdb
